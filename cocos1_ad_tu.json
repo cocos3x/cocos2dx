@@ -2,8 +2,7 @@
   "AD_Banner": "1232332Banner",
   "AdMob_ID": "123232322ID",
   "AdPop_ID": "123232322Pop",
-  "Year": 2017,
-  "Month": 9,
-  "Day": 30,
+  "dateStart": 20170701,
+  "dateEnd": 20170905,
   "AdVideo_ID": "123232322video"
 }
