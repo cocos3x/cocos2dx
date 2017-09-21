@@ -1,8 +1,13 @@
 {
-  "AD_Banner": "1232332Banner",
-  "AdMob_ID": "123232322ID",
-  "AdPop_ID": "123232322Pop",
+  "AD_Banner": "ca-app-pub-4837285630316424/3758156395",
+  "AdMob_ID": "ca-app-pub-4837285630316424~2281423190",
+  "AdPop_ID": "ca-app-pub-4837285630316424/1164616797",
   "dateStart": 20170701,
   "dateEnd": 20170705,
-  "AdVideo_ID": "123232322video"
+  "AdVideo_ID": "ca-app-pub-4837285630316424/7989879595",
+	
+"2AD_Banner": "ca-app-pub-4837285630316424/3452115651",
+  "2AdMob_ID": "ca-app-pub-4837285630316424~8099127599",
+  "2AdPop_ID": "ca-app-pub-4837285630316424/9575860790",
+ "2AdVideo_ID": "ca-app-pub-4837285630316424/1094394718"
 }
